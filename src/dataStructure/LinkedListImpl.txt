@@ -1,0 +1,7 @@
+3/27 - 원카드 player 순서 - linkedList 구현 및 TDD 작성 진행 세부내요
+
+구현방향
+   1. 먼저 일반적인 LinkedList 구현
+   2. LinkedList 구현 후 마지막 Node에 null이 아닌 첫 Node와 연결시키는 circleLinkedList 구현
+   3. Q는 역순으로도 이동이 가능해야하므로 doubleLinkedList 구현
+   4. doubleLinkedList 또한 처음과 끝의 Node를 연결해야하므로 circleLinkedList 구현
